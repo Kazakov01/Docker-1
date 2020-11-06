@@ -1,9 +1,9 @@
 # **Docker** 
-Docker (42 ecole project)
+Docker ([42 ecole project](https://github.com/VBrazhnik/docker-1/blob/master/docker.en.pdf))
 
-[Докер](https://github.com/VBrazhnik/docker-1/blob/master/docker.en.pdf) состоит из нескольких частей:
+Проект состоит из нескольких частей:
 
-1 How to Docker. [Вики How to docker](https://github.com/VBrazhnik/docker-1/blob/master/docker.en.pdf)
+1 How to Docker. [Вики How to docker](https://github.com/Kazakov01/Docker-1/wiki/00-(How-to-docker))
 
 2 Dockerfiles. [Вики Dockerfiles](https://github.com/VBrazhnik/docker-1/blob/master/docker.en.pdf)
 
@@ -14,4 +14,3 @@ Docker (42 ecole project)
 
 ***
 
-# **Склонировать можно следующим образом**
